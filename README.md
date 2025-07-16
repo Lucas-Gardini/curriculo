@@ -2,15 +2,13 @@
 
 ## Lucas Gardini Dias
 
-📍 Catanduva, SP, Brasil
-📧 [contato@lucasgardini.com](mailto:contato@lucasgardini.com)
-🔗 [LinkedIn](https://linkedin.com/in/lucasgardini) | 🌐 [Portfólio](https://lucasgardini.com)
+📍 Catanduva, SP, Brasil | 📧 [contato@lucasgardini.com](mailto:contato@lucasgardini.com) | 🔗 [LinkedIn](https://linkedin.com/in/lucasgardini) | 🌐 [Portfólio](https://lucasgardini.com)
 
 ---
 
 ## Resumo Profissional
 
-Desenvolvedor Fullstack com mais de 3 anos de experiência, especializado em TypeScript e na criação de aplicações web, desktop e mobile. Histórico de contribuições na definição de arquiteturas e otimização de desempenho. Liderei o desenvolvimento de projetos inovadores, como uma plataforma de análise de currículos com IA. Conquistei o 1º lugar na competição da Semana Global de Empreendedorismo de Catanduva em 2021. Apaixonado por tecnologia, aprendizado constante e compartilhamento de conhecimento.
+Desenvolvedor Fullstack com mais de 3 anos de experiência, especializado em TypeScript e na criação de aplicações web, desktop e mobile. Possuo histórico de contribuições na definição de arquiteturas de projetos e otimização de desempenho de aplicações. Liderei o desenvolvimento de projetos inovadores, como uma plataforma de análise de currículos com Inteligência Artificial, e conquistei o 1º lugar na competição de desafios da Semana Global de Empreendedorismo de Catanduva em 2021. Apaixonado por tecnologia e boas práticas de desenvolvimento, estou em constante aprendizado e compartilhando conhecimento.
 
 ---
 
@@ -19,47 +17,48 @@ Desenvolvedor Fullstack com mais de 3 anos de experiência, especializado em Typ
 ### Analista Desenvolvedor Sênior
 
 **Integrativa, Catanduva/SP**
+
 *Maio de 2025 – Presente*
 
 ### Analista Desenvolvedor Web Pleno
 
 **Integrativa, Catanduva/SP**
+
 *Setembro de 2022 – Abril de 2025*
 
-* Manutenção e criação de integrações via APIs REST.
-* Desenvolvimento de microsserviços em Node.js.
-* Aplicações web (Vue.js, Angular, Node.js, .NET).
-* Aplicações desktop (.NET WPF, Tauri, Electron).
-* Automação com Python e JavaScript.
-* Aplicações móveis com React Native.
-* Gerenciamento de servidores em nuvem (AWS, Oracle Cloud).
-* Dashboards e widgets interativos.
+* Manutenção e criação de integrações entre plataformas externas via APIs REST.
+* Desenvolvimento de microsserviços em Node.js, implementando comunicação HTTP e mensageria.
+* Desenvolvimento de aplicações web utilizando frameworks front-end (Vue.js, Angular) e back-end (Node.js, .NET).
+* Criação de aplicações desktop multiplataforma utilizando .NET (WPF), Tauri e Electron.
+* Automação de processos internos por meio de scripts em Python e JavaScript.
+* Desenvolvimento de aplicações móveis com React Native.
+* Gerenciamento de servidores em nuvem (AWS e Oracle Cloud) para hospedagem e infraestrutura.
+* Criação de dashboards e widgets interativos para monitoramento de dados.
 
 ### Analista Programador JR/PL
 
 **Integrativa, Catanduva/SP**
+
 *Agosto de 2022 – Setembro de 2022*
 
-* Manutenção e melhoria de sistemas web.
-* Integração de APIs, desenvolvimento front-end/back-end (Vue.js, Node.js).
+* Manutenção de sistemas web existentes, corrigindo bugs e implementando melhorias sob supervisão.
+* Integração de APIs e no desenvolvimento de funcionalidades front-end e back-end, aprimorando habilidades em tecnologias como Vue.js e Node.js.
 
 ### Programador Web
 
 **Integrativa, Catanduva/SP**
 *Janeiro de 2022 – Julho de 2022*
 
-* Desenvolvimento web e integração de APIs.
-* Tarefas front-end e back-end em TypeScript e JavaScript.
+* Desenvolvimento de projetos web, implementando funcionalidades básicas e integrações simples de APIs.
+* Adquiri experiência prática com TypeScript e JavaScript, contribuindo em tarefas de front-end e back-end e seguindo as orientações da equipe.
 
 ---
 
 ## Formação Acadêmica
 
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – *2022 – 2024*
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – *2022 – 2024*
 
-* **Ensino Médio | Técnico em Redes de Computadores**
-  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – *2019 – 2021*
+* **Ensino Médio | Técnico em Redes de Computadores** | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – *2019 – 2021*
 
 ---
 
@@ -86,26 +85,22 @@ Desenvolvedor Fullstack com mais de 3 anos de experiência, especializado em Typ
 
 ### Plataforma de Análise de Currículos com IA (TCC ADS 2024)
 
-Open-source para recrutamento automático com IA (OpenAI).
-**Stack:** Nuxt.js, NestJS, MongoDB, Redis, Docker
+Plataforma open-source para otimizar o recrutamento por meio de análise automática de currículos com Inteligência Artificial (OpenAI). Composta por aplicação web e mobile, focada em desempenho e experiência do usuário. Stack: Nuxt.js (Vue.js), NestJS (Node.js), MongoDB, Redis, Docker.
 [GitHub](https://github.com/Lucas-Gardini/TCC-ADS-IFSP-2024)
 
 ### Utiliter (2024)
 
-Ferramentas utilitárias para devs (encoders, geradores, etc.).
-**Stack:** Nuxt.js, Tailwind CSS
+Coleção open-source de ferramentas utilitárias para desenvolvedores (encoders, geradores, formatadores, etc.) reunidas em uma única aplicação web. Focada em centralizar utilitários com visual limpo e praticidade. Stack: Nuxt.js, Tailwind CSS.
 [Demo](https://utiliter.lucasgardini.com)
 
 ### Speech Recognition Pronunciation (2023)
 
-Auxilia na prática de pronúncia em inglês com feedback em tempo real.
-**Stack:** Vue.js, Nuxt.js
+Aplicação web para auxiliar usuários na prática de pronúncia em inglês, utilizando a API de Reconhecimento de Fala do navegador para fornecer feedback em tempo real. Desenvolvida com Vue.js e Nuxt.js.
 [Demo](https://speech-recognition-pronunciation.lucasgardini.com)
 
 ### OrderByte (2021)
 
-Sistema para registro de pedidos e gestão de restaurantes.
-**Stack:** Vue.js, Electron, React Native, Node.js/Express, MongoDB
+Sistema completo (web, desktop e mobile) para registro de pedidos e gestão de restaurantes em tempo real, desenvolvido como projeto de conclusão do curso técnico. Stack: Vue.js & Electron (desktop), React Native (mobile), Node.js/Express (API), MongoDB.
 [GitHub](https://github.com/Lucas-Gardini/TCC-REDES-IFSP-2021)
 
 ---
