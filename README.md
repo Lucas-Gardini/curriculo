@@ -8,7 +8,7 @@
 
 ## Resumo Profissional
 
-Desenvolvedor Fullstack com mais de 3 anos de experiência, especializado em TypeScript e na criação de aplicações web, desktop e mobile. Possuo histórico de contribuições na definição de arquiteturas de projetos e otimização de desempenho de aplicações. Liderei o desenvolvimento de projetos inovadores, como uma plataforma de análise de currículos com Inteligência Artificial, e conquistei o 1º lugar na competição de desafios da Semana Global de Empreendedorismo de Catanduva em 2021. Apaixonado por tecnologia e boas práticas de desenvolvimento, estou em constante aprendizado e compartilhando conhecimento.
+Desenvolvedor Fullstack com mais de 3 anos de experiência, especializado em TypeScript e na criação de aplicações web, desktop e mobile. Possuo histórico de contribuições na definição de arquiteturas de projetos, otimização de desempenho de aplicações e manutenção de sistemas legados com melhorias significativas de performance. Liderei o desenvolvimento de projetos inovadores, como uma plataforma de análise de currículos com Inteligência Artificial, além de realizar manutenção e desenvolvimento de aplicações para scraping de dados, integração constante com APIs diversas e utilização intensiva de containers Docker. Experiência comprovada no gerenciamento e manutenção de servidores em ambientes AWS, Oracle Cloud, Linux e Windows Server. Conquistei o 1º lugar na competição de desafios da Semana Global de Empreendedorismo de Catanduva em 2021. Apaixonado por tecnologia e boas práticas de desenvolvimento, estou em constante aprendizado e compartilhando conhecimento.
 
 ---
 
