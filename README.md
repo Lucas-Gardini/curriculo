@@ -2,7 +2,7 @@
 
 ## Lucas Gardini Dias
 
-📍 Catanduva, SP, Brasil | 📧 [contato@lucasgardini.com](mailto:contato@lucasgardini.com) | 🔗 [LinkedIn](https://linkedin.com/in/lucasgardini) | 🌐 [Portfólio](https://lucasgardini.com)
+Catanduva, SP, Brasil | [contato@lucasgardini.com](mailto:contato@lucasgardini.com) | [LinkedIn](https://linkedin.com/in/lucasgardini) | [Portfólio](https://lucasgardini.com)
 
 ---
 
